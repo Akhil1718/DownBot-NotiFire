@@ -68,7 +68,7 @@ To get a list of all the bots that are being monitored, run the command `d!help`
 ## Add this bot to your server
 
 You can add this bot to your server by clicking in the image below:
-[![Add this bot to your server](https://cdn.discordapp.com/attachments/712911895140761600/721187762765824020/android-q-notification-inbox-100785464-large.jpg)](https://discord.com/api/oauth2/authorize?client_id=721181344696107040&permissions=0&scope=bot&permissions=2048)
+[![Add this bot to your server](https://cdn.discordapp.com/attachments/712911895140761600/721187762765824020/android-q-notification-inbox-100785464-large.jpg)](https://discord.com/api/oauth2/authorize?client_id=721190879494144050&permissions=2048&scope=bot)
 
 ## Author
 
