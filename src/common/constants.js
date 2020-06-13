@@ -69,9 +69,9 @@ const NUMBER_EMOJI_UNICODE = [
 ];
 
 const MESSAGE_EMBED = {
-  thumbnail: 'https://i.imgur.com/Tqnk48j.png',
+  thumbnail: 'https://media.discordapp.net/attachments/712911895140761600/721187762765824020/android-q-notification-inbox-100785464-large.jpg',
   color: '#ffcb5c',
-  issuesURL: 'https://github.com/moonstar-x/discord-downtime-notifier/issues'
+  issuesURL: 'https://github.com/Akhil1718/DownBot-NotiFire/issues'
 };
 
 const MESSAGE_SEND_ERRORS = {
