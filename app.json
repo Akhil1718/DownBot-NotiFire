@@ -2,7 +2,7 @@
   "name": "Discord Downtime Notifier",
   "description": "A small Discord bot that sends a message when a specified bot goes offline.",
   "repository": "https://github.com/Akhil1718/DownBot-NotiFirer",
-  "logo": "https://i.imgur.com/Tqnk48j.png",
+  "logo": "https://cdn.discordapp.com/attachments/712911895140761600/721187762765824020/android-q-notification-inbox-100785464-large.jpg",
   "env": {
     "PREFIX": {
       "description": "Your bot's command prefix.",
