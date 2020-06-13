@@ -16,7 +16,7 @@ You can self-host this bot or deploy it on a service like [Heroku](https://www.h
 
 In order to self-host this bot, you'll need to clone this repository.
 
-    git clone https://github.com/moonstar-x/discord-downtime-notifier.git
+    git clone https://github.com/Akhil1718/DownBot-NotiFire.git
 
 Then, rename the file *settings.json.example* to *settings.json* and edit the values according to your server (server ID, channel ID, bot ID and bot token).
 
@@ -38,7 +38,7 @@ You can now run your bot:
 
 To deploy to Heroku, you can click on the image below and login to your account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/moonstar-x/discord-downtime-notifier)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Akhil1718/DownBot-NotiFire)
 
 You can now go back to your app's *Overview*, make sure you disable the *web* dyno and enable the *bot* dyno. Your bot should now be up and running. Remember you can always check your bot's console if you access the *View Logs* in the *More* dropdown menu.
 
@@ -68,8 +68,8 @@ To get a list of all the bots that are being monitored, run the command `d!help`
 ## Add this bot to your server
 
 You can add this bot to your server by clicking in the image below:
-[![Add this bot to your server](https://i.imgur.com/EJM2CM0.png)](https://discordapp.com/oauth2/authorize?client_id=514136165138563073&scope=bot&permissions=2048)
+[![Add this bot to your server](https://discord.com/api/oauth2/authorize?client_id=721181344696107040&permissions=0&scope=bot&permissions=2048)
 
 ## Author
 
-This bot was made by [moonstar-x](https://github.com/moonstar-x).
+This bot was made by [moonstar-x](https://github.com/moonstar-x) & [Akhil1718](https://github.com/Akhil1718).
